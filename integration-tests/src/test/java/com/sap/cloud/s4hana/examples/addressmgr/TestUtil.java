@@ -1,4 +1,4 @@
-package com.sap.cloud.s4hana.examples;
+package com.sap.cloud.s4hana.examples.addressmgr;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
